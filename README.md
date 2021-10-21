@@ -2,7 +2,7 @@
 - 🇩🇪 I'm from Northern Germany
 - 🎓 I'm an undergraduate at Technische Universität Braunschweig
 - 👀 I’m interested in maths, (functional) programming and aerospace
-- 🌱 I’m currently learning: Rust & R
+- 🌱 I’m currently learning: ABAP & Rust
 
 <!---
 k-gruenberg/k-gruenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
