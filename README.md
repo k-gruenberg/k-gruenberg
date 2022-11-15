@@ -3,7 +3,7 @@
 - 🎓 I'm an undergraduate at Technische Universität Braunschweig
 - 👀 I’m interested in maths, cryptography, (functional) programming and aerospace
 - 👨‍💻 I've programmed in: Java, Rust, C, Haskell, Python, BASIC, R, JavaScript
-- LinkedIn: [www.linkedin.com/in/kendrick-grünberg-a54320246](https://www.linkedin.com/in/kendrick-gr%C3%BCnberg-a54320246/)
+- LinkedIn: [linkedin.com/in/k-gruenberg](https://www.linkedin.com/in/k-gruenberg/)
 
 <!---
 k-gruenberg/k-gruenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
