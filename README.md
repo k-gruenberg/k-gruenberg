@@ -2,7 +2,7 @@
 - 🇩🇪 I'm from Northern Germany
 - 🎓 I'm a M.Sc. student at Technische Universität Braunschweig
 - 👀 I’m interested in maths, cryptography, (functional) programming and aerospace
-- 👨‍💻 I've programmed in: Java, Rust, C, C++, Python, Haskell, BASIC, R, JavaScript
+- 👨‍💻 I've programmed in: Java, Rust, C, C++, Python, Haskell, BASIC, R, JavaScript, Swift
 - LinkedIn: [linkedin.com/in/k-gruenberg](https://www.linkedin.com/in/k-gruenberg/)
 
 <!---
